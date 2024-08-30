@@ -1,0 +1,7 @@
+<div>
+    <h1>Curso Gratuito de Algoritmos com Kotlin</h1>
+    <p>Aqui você pode assistir às aulas do curso de algoritmos.</p>
+    <ol class="list-group list-group-numbered">
+        <!-- Adicione as aulas aqui -->
+    </ol>
+</div>
