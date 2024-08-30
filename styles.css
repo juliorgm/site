@@ -15,7 +15,7 @@ nav {
 header {
     background-color: #002F6C; /* Cor azul oxford */
     background-image: linear-gradient(135deg, #002F6C 0%, #0056A0 100%); /* Gradiente azul */
-    background-size: cover;
+  
     background-position: center;
     color: #fff;
     text-align: center;
