@@ -6,13 +6,19 @@ body {
     background-color: #f4f4f4; /* Cor de fundo neutra para o corpo */
 }
 
+.navbar {
+    background-color: #001C3D; /* Azul um pouco mais escuro que o header */
+    margin: 0;
+    padding: 0;
+}
+
 header {
-    background-color: #002F6C;
+    background-color: #002F6C; /* Cor azul oxford */
     background-image: linear-gradient(135deg, #002F6C 0%, #0056A0 100%); /* Gradiente azul */
     background-size: cover;
     background-position: center;
     color: #fff;
-    padding: 40px 20px; /* Espaçamento maior para um visual mais elegante */
+    padding: 40px 20px; /* Espaçamento interno do header */
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra sutil */
 }
