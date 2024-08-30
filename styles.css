@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-image: url('https://via.placeholder.com/1500x500');
+    background-color: #002F6C;
     background-size: cover;
     background-position: center;
     color: #fff;
